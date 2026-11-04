@@ -1,16 +1,15 @@
+📌 About the Project
+
+ClaimLens AI is a multimodal AI-powered insurance claims investigation platform designed to simplify and improve the traditional insurance claim verification process.
+
+The platform allows customers to submit insurance claims, upload accident photographs, and provide incident descriptions. AI assists in analyzing the submitted information and generating investigation reports to support insurance administrators.
+
+Administrators can review claim details, uploaded evidence, and AI-generated insights before making the final approval or rejection decision.
+
+The goal is to make insurance claim investigation more efficient, transparent, and evidence-driven.
 
 
-This project was built with [Lovable](https://lovable.dev).
-
-
-
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
-
- #Development
+#Development
 
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
