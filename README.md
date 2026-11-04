@@ -43,7 +43,7 @@ For policyholders:
 
 🌐 Live demo:
 
- https://claimlens-arkiun70u-aruneesh.vercel.app/
+ https://claimlens-ai-green.vercel.app
 
 ⚖️ Disclaimer:
 
