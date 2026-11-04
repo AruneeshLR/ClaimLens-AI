@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793422109692,
+      "tag": "0000_claimlens_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793422136894,
+      "tag": "0001_claim_files_storage_policies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793690592181,
+      "tag": "0002_identity_documents_and_owner_check",
+      "breakpoints": true
+    }
+  ]
+}
